@@ -6,3 +6,9 @@ class variableDemo {
         System.out.print(variableDemo.x);
     }
 }
+
+/*
+ * first 'git status' to check if any file is modified 
+ * 
+ * 
+ */
