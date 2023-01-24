@@ -9,6 +9,7 @@ class variableDemo {
 
 /*
  * first 'git status' to check if any file is modified 
- * 
- * 
+ * second : git add .
+ * third : git commit -m " message "
+ * fourth : git push 
  */
